@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on m-Health projects
-- 🌱 I’m currently learning genetic programming
+- 🔭 I’m currently working on genetic programming and parallelism
+- 🌱 I’m currently learning about data mining
 
 - 📫 How to reach me: luciananascimento@ice.ufjf.br
 
