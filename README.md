@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on microservices
-- 🌱 I’m currently learning about data mining
+- 🔭 I’m currently working on backend engineering
+- 🌱 I’m currently learning about devops
 
-- 📫 How to reach me: luciananascimento@ice.ufjf.br
+- 📫 How to reach me: luciananssantana@gmail.com
 
