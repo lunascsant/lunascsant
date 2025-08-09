@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on backend engineering
-- 🌱 I’m currently learning about devops
+- 🔭 I’m currently working as a backend software engineer
+- 🌱 I’m currently learning about operational search
 
 - 📫 How to reach me: luciananssantana@gmail.com
 
